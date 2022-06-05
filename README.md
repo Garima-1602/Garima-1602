@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Garima Kamboj!</h1>
 <h3 align="center">Programmer |Quick learner | Explorer |Dreamer</h3>
 
-- 🌱 I’m currently learning **Flutter and dart**
+- 🌱 I always want to  **learn and grow**
 
 - 📫 How to reach me **garima89077@gmail.com**
 
