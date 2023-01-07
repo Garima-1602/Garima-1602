@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Garima Kamboj!</h1>
-<h3 align="center">Programmer |Quick learner | Explorer |Dreamer</h3>
+<h3 align="center">Developer|Quick learner | Explorer |Dreamer|Keen Observer|Team Player</h3>
 
 - 🌱 I always want to  **learn and grow**
 
