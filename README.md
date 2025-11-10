@@ -22,7 +22,7 @@ With hands-on experience in **data engineering, machine learning, and LLM-based 
 Python (pandas, NumPy, scikit-learn, LangChain), SQL, PySpark, C++  
 
 **ML & Data Skills:**  
-Feature Engineering, Model Evaluation (AUC, CV), EDA, Statistical Testing, Generative AI  
+Feature Engineering, Model Evaluation, EDA, Statistical Testing, Generative AI  
 
 **Tools & Platforms:**  
 Power BI, Snowflake, Databricks, Azure, AWS, Airflow, Jupyter  
