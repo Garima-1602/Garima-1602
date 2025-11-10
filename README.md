@@ -64,12 +64,6 @@ _Chandigarh University (2020–2024)_ | CGPA: **8.61**
 
 ---
 
-## 📊 GitHub Stats  
-
-![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimakamboj&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimakamboj&layout=compact&theme=tokyonight)  
-
----
 
 ## 🌐 Let's Connect  
 
