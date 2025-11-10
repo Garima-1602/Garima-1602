@@ -1,33 +1,82 @@
+# 👋 Hi, I'm Garima Kamboj  
 
-<h1 align="center">Hi 👋, I'm Garima Kamboj!</h1>
-<h3 align="center">Developer|Quick learner | Explorer |Dreamer|Keen Observer|Team Player</h3>
+🚀 **Technical Consultant | Data & AI Professional | Generative AI & Machine Learning Enthusiast**  
 
-- 🌱 I always want to  **learn and grow**
+I’m passionate about building **data-driven systems and intelligent automation** that solve real-world business challenges.  
+With hands-on experience in **data engineering, machine learning, and LLM-based automation**, I enjoy creating scalable, efficient, and insightful solutions that drive measurable business impact.
 
-- 📫 How to reach me **garima89077@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/garima kamboj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garima kamboj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/garima_1602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="garima_1602" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/garima kamboj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="garima kamboj" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/garima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="garima" height="30" width="40" /></a>
-</p>
+## 💡 About Me  
+- 💼 Currently working as a **Technical Consultant at Blue Yonder**, leading AI-driven automation and data integration initiatives.  
+- 🧠 Skilled in **LangChain, Azure, Snowflake, Databricks, and Power BI** to design and deploy end-to-end analytics and AI systems.  
+- 🧩 Strong foundation in **machine learning, data engineering pipelines, and Generative AI applications**.  
+- ⚙️ Passionate about translating business problems into **data-driven, actionable insights**.  
+- 🌱 Constantly exploring advancements in **LLMs, data pipelines, and cloud-native AI solutions**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<!--
-**Garima-1602/Garima-1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack  
 
-Here are some ideas to get you started:
+**Languages & Libraries:**  
+Python (pandas, NumPy, scikit-learn, LangChain), SQL, PySpark, C++  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ML & Data Skills:**  
+Feature Engineering, Model Evaluation (AUC, CV), EDA, Statistical Testing, Generative AI  
+
+**Tools & Platforms:**  
+Power BI, Snowflake, Databricks, Azure, AWS, Airflow, Jupyter  
+
+---
+
+## 🔬 Featured Projects  
+
+### 📨 Cold Email Generator  
+Built an **AI-powered personalized email generator** using LangChain and OpenAI API that tailors content tone and context to improve outreach efficiency.  
+**Tech Stack:** LangChain | OpenAI API | Python | FAISS  
+
+---
+
+### ❓ Q&A Retrieval System  
+Developed a **document-level question-answering system** integrating FAISS embeddings and LLMs to deliver contextual enterprise data insights.  
+**Tech Stack:** LangChain | FAISS | Python | OpenAI API  
+
+---
+
+### 🛒 Flipkart Data Engineering Pipeline  
+Built an **end-to-end data pipeline** for retail analytics — automated daily ingestion, transformation, and analysis of large-scale retail data using PySpark and Azure.  
+**Tech Stack:** PySpark | Databricks | AWS S3 | Parquet | Azure  
+
+---
+
+## 🎓 Education  
+**B.E. in Computer Science**  
+_Chandigarh University (2020–2024)_ | CGPA: **8.61**
+
+---
+
+## 🏆 Certifications  
+- Snowflake Essentials  
+- Generative AI Fundamentals  
+- Google Data Foundation  
+- NPTEL – Data Mining & Testing  
+- BCG Strategy Consulting  
+
+---
+
+## 📊 GitHub Stats  
+
+![Garima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimakamboj&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimakamboj&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Let's Connect  
+
+📫 **Email:** [garima89077@gmail.com](mailto:garima89077@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/garima-kamboj](#)  
+💻 **GitHub:** [github.com/garimakamboj](#)  
+
+---
+
+✨ *“Turning business data into intelligent decisions, one model at a time.”*  
